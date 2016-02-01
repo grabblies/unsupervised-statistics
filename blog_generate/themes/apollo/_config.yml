@@ -1,11 +1,11 @@
 menu:
     Blog: /
     Archives: /archives/
-    Find on github: https://github.com/grabblies/unsupervised-statistics/
+    Github: https://github.com/grabblies/unsupervised-statistics/
     rss: /atom.xml
 
 favicon: /alpha.jpeg
-logo: /favicon.png
+logo: /alpha.jpeg
 
 # Comment
 # e.g disqus: seansun
