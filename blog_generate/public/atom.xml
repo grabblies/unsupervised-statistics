@@ -4,30 +4,33 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-21T18:52:24.000Z</updated>
+  <updated>2016-02-08T00:22:16.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[My New Post]]></title>
-    <link href="http://yoursite.com/2016/01/21/My-New-Post/"/>
-    <id>http://yoursite.com/2016/01/21/My-New-Post/</id>
-    <published>2016-01-21T18:52:24.000Z</published>
-    <updated>2016-01-21T18:52:24.000Z</updated>
-    <content type="html"></content>
+    <title><![CDATA[Where to buy a reasonably priced house in Asheville]]></title>
+    <link href="http://yoursite.com/2016/02/07/bunc-real-estate/"/>
+    <id>http://yoursite.com/2016/02/07/bunc-real-estate/</id>
+    <published>2016-02-08T00:22:16.000Z</published>
+    <updated>2016-02-08T00:22:16.000Z</updated>
+    <content type="html"><![CDATA[<p>Asheville is a wonderful city. However, like many other wonderful cities, it is a city that other people have discovered is wonderful. As such, it has become a lot more expensive than it used to be. In the golden 1990s, West Asheville was the boonies, and I remember being sensitive to the (middle school) social implications of living on “that” side of town.</p>
+<p>Little did I know that it would become the center of Asheville’s reemergence. </p>
+<h2 id="Land_value_per_acre"><a href="#Land_value_per_acre" class="headerlink" title="Land value per acre"></a>Land value per acre</h2>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p>Asheville is a wonderful city. However, like many other wonderful cities, it is a city that other people have discovered is wonderful. As]]>
     </summary>
     
   </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2016/01/10/hello-world/"/>
-    <id>http://yoursite.com/2016/01/10/hello-world/</id>
-    <published>2016-01-10T23:52:24.000Z</published>
-    <updated>2016-01-10T23:52:24.000Z</updated>
+    <link href="http://yoursite.com/2016/01/24/hello-world/"/>
+    <id>http://yoursite.com/2016/01/24/hello-world/</id>
+    <published>2016-01-24T23:37:53.000Z</published>
+    <updated>2016-01-24T23:37:53.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
@@ -40,6 +43,19 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[My New Post]]></title>
+    <link href="http://yoursite.com/2016/01/21/My-New-Post/"/>
+    <id>http://yoursite.com/2016/01/21/My-New-Post/</id>
+    <published>2016-01-21T18:52:24.000Z</published>
+    <updated>2016-01-24T23:37:53.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
     </summary>
     
   </entry>
